@@ -1,0 +1,21 @@
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.exe.config
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.exe
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.pdb
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.xml
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial_5_programme_1.Form1.resources
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial_5_programme_1.Resources.resources
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.vbproj.GenerateResource.Cache
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.exe
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.xml
+F:\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\bin\Debug\Tutorial 5 programme 1.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial_5_programme_1.Form1.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial_5_programme_1.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.vbproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.vbproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Tutorial 5 programme 1\Tutorial 5 programme 1\obj\Debug\Tutorial 5 programme 1.pdb
